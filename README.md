@@ -11,9 +11,8 @@ O sistema consiste em uma solução completa para cadastro, monitoramento, apura
 
 ## 📸 Visão Geral do Dashboard
 
-> *Adicione aqui a captura de tela principal do seu Dashboard completo.*
 
-![Dashboard de Gestão de Ativos](img/dashboard.png)
+![Dashboard de Gestão de Ativos](screenshots/dashboard.png)
 
 ---
 
@@ -44,14 +43,12 @@ O sistema consiste em uma solução completa para cadastro, monitoramento, apura
 ## 🖼️ Telas do Projeto
 
 ### Relatório de Carteira & Posição
-> *Cole aqui um print da aba ReCarteira.*
 
-![Relatório de Carteira](img/relatorio_carteira.png)
+![Relatório de Carteira](screenshots/recarteira.png)
 
 ### Cadastro de Aportes e Proventos
-> *Cole aqui um print das abas TbAportes ou TbProventos.*
 
-![Registro de Aportes](img/cadastro_aportes.png)
+![Registro de Aportes](screenshots/tbaportes.png)
 
 ---
 
